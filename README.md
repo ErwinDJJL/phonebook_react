@@ -1,12 +1,12 @@
-# React + Vite
+Hola bienvenido a mi repositorio, este es el ejercicio 3.10 del curso
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El siguiente link te lleva al webservice
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link para saber si funciona la api y el despliegue; https://phonebook-react-sjsp.onrender.com/api
 
-## Expanding the ESLint configuration
+Link a person: https://phonebook-react-sjsp.onrender.com/api/persons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+El siguiente link muestra el frontend
+Link: https://phonebook-react-sjsp.onrender.com
